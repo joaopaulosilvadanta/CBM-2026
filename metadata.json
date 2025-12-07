@@ -1,0 +1,7 @@
+{
+  "name": "Missão CBM-RR: A Lei do Incêndio",
+  "description": "Plataforma gamificada de ensino para o concurso CBM-RR, com foco em Legislação Específica. Desenvolvido por Prof. João Paulo Silva Dantas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
